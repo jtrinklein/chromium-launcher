@@ -1,0 +1,11 @@
+{
+  "name": "chromium-launcher",
+  "version": "0.0.1",
+  "description": "",
+  "repo": "https://github.com/jtrinklein/chromium-launcher",
+  "license": "MIT",
+  "bin": {
+    "chromium": "cli.js"
+  }
+}
+
