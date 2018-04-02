@@ -6,6 +6,11 @@
   "license": "MIT",
   "bin": {
     "chromium": "cli.js"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "dependencies": {
+    "meow": "^4.0.0"
   }
 }
-
